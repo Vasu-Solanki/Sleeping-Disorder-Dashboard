@@ -2,8 +2,9 @@
 
 ## 📌 Overview
 
-This Power BI dashboard analyzes data related to sleeping disorders, BMI, heart rate, physical activity, stress levels, and demographic factors.
-The goal is to uncover patterns that might help in **early detection**, **awareness**, and **lifestyle improvement** for individuals prone to sleep-related issues.
+I built an interactive Power BI dashboard that explores the relationship between sleep disorders and other health & lifestyle measures (BMI, heart rate, physical activity, age, stress level, occupation, daily steps).
+Before creating the dashboard, I cleaned the dataset and performed exploratory data analysis (EDA) in **Python** to discover patterns, handle missing values, and prepare aggregated measures that the dashboard uses.
+
 
 ---
 
